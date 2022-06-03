@@ -4,6 +4,9 @@ QBCore Radial Menu Design changed
 # Preview:
 ![image](https://user-images.githubusercontent.com/89866234/171840801-3a11dfd2-48c2-4220-bdd2-391ce7491e57.png)
 
+# Original script:
+- https://github.com/qbcore-framework/qb-radialmenu
+
 # License
 
     QBCore Framework
